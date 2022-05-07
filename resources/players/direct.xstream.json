@@ -1,0 +1,12 @@
+{
+    "name" : "[COLORdeepskyblue]xStream[/COLOR]",
+    "plugin" : "plugin.video.xstream",
+    "priority" : 200,
+    "is_resolvable" : "false",
+    "play_movie" : "",
+    "play_episode" : "",
+    "search_movie" : "plugin://plugin.video.xstream/?function=globalSearch&params=0&site=globalSearch&title=Globale%20Suche&searchterm={title}",
+    "search_episode": ""
+}
+
+
