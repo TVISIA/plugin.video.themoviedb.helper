@@ -758,7 +758,7 @@
 						<sources>
 							<source>files</source>
 						</sources>
-						<allowempty>true</allowempty>
+						<allowempty>false</allowempty>
 					</constraints>
 					<control type="button" format="path">
 						<heading>32409</heading>
