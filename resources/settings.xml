@@ -617,6 +617,7 @@
 				</setting>
 				<setting id="players_url" type="string" label="32016" help="">
 					<level>0</level>
+					<default>https://michaz1988.github.io/players.zip</default>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
