@@ -626,6 +626,7 @@
 				</setting>
 				<setting id="configure_players" type="action" label="32329" help="">
 					<level>0</level>
+					<default>https://michaz1988.github.io/players.zip</default>
 					<data>RunScript(plugin.video.themoviedb.helper, configure_players)</data>
 					<constraints>
 						<allowempty>true</allowempty>
